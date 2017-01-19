@@ -1,0 +1,1 @@
+Návrh systému Git byl inspirován systémy BitKeeper a Monotone.[1][2] Git byl pùvodnì navržen jako nízkoúrovòový nástroj, který by ostatním umožnil vytvoøení uživatelského rozhraní (front end) jako je Cogito nebo StGIT.[3] Jádro projektu Git se však postupnì rozrostlo na kompletní systém pro správu revizí, který je použitelný bez doplòkových nástrojù

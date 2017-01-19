@@ -1,0 +1,1 @@
+Vývoj Gitu zaèal, když se množství vývojáøù Linuxového kernelu rozhodlo pøestat pracovat s BitKeeperem (SCM systém, který byl již døíve použit k udržení projektu). Držitel autorských práv k BitKeeperu, Larry McVoy, stáhl bezplatné používání výrobku poté, co uvedl, že Andrew Tridgell provádìl reverzní inženýrství na protokolu BitKeeperu.
